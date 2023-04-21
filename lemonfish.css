@@ -304,7 +304,7 @@ div:last-child .chatItem {
 }
 
 #instructions {
-    display: none;
+    display: play;
 }
 
 #instructionsUpdate {
@@ -889,7 +889,7 @@ input:checked+.sliderSml {
     margin-top: 6px !important;
 }
 
-#loadoutHolder>.settNameSmall {
+#loadoutHolderHolder>.settNameSmall {
     border: none !important;
     padding: 0 !important;
 }
